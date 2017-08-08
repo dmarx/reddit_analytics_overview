@@ -1,0 +1,19 @@
+Conversation monitoring: 
+ - hilldog bot
+    - Related work: twitter trending content
+
+Community structure analysis
+ - Navigable reddit map with community structure
+ - Graph anomaly detection
+ - Global user growth vs. active user/community growth
+ - Locality activity profiling
+ - Super-user characterization
+ 
+Under explored
+ - user migration
+ - Post success prediction
+    - Related work: twitter trending content
+ - optimal post characteristics
+    --> Prior work:
+        - Optimal posting times
+        - Optimal post title characteristics
